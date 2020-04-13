@@ -1,2 +1,3 @@
 # hello-world
-just another repository 
+
+My name is hamzeh and im taking this programming class
